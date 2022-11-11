@@ -1,0 +1,33 @@
+1	“	“	_	PUNCT	_	5	punct	_	SpaceAfter=No
+2	Kowe	kowe	_	PRON	Polite=Infm	5	nsubj	_	_
+3	kudu	kudu	_	AUX	Polite=Infm	5	aux	_	_
+4	bisa	bisa	_	AUX	Polite=Infm	5	aux	_	_
+5	pinter	pinter	_	ADJ	_	0	root	_	_
+6	ya	ya	_	INTJ	_	5	discourse	_	SpaceAfter=No
+7	,	,	_	PUNCT	_	8	punct	_	_
+8	Le	le	_	PROPN	_	5	conj	_	SpaceAfter=No
+9	.	.	_	PUNCT	_	5	punct	_	_
+
+1	Amung	Amung	_	ADV	Polite=Form	7	advmod	_	_
+2	Simbah	Simbah	_	PROPN	_	7	nsubj	_	_
+3	Kakung	Kakung	_	PROPN	_	2	flat:name	_	_
+4	kang	kang	_	PRON	_	5	nsubj	_	_
+5	nyumurupi	nyumurupi	_	VERB	Voice=Act	2	acl:relcl	_	_
+6	banjur	banjur	_	ADV	_	7	advmod	_	_
+7	nggugah	gugah	_	VERB	Voice=Act	0	root	_	_
+8	kakang	kakang	_	NOUN	Number=Sing	7	obj	_	_
+9	ku	ku	_	PRON	Number=Sing	8	nmod:poss	_	_
+10	.	.	_	PUNCT	_	7	punct	_	SpacesAfter=\n
+
+1	Ora	ora	_	PART	_	3	advmod	_	_
+2	mung	mung	_	ADV	_	3	advmod	_	_
+3	cakepan	cakepan	_	X	_	0	root	_	SpaceAfter=No
+4	,	,	_	PUNCT	_	3	punct	_	_
+5	musik	musik	_	NOUN	Number=Sing	8	nsubj	_	_
+6	e	e	_	DET	Definite=Def	5	det	_	Level=Ngoko
+7	uga	uga	_	ADV	_	8	advmod	_	_
+8	dicampur	campur	_	VERB	Voice=Pass	3	advcl	_	_
+9	karo	karo	_	ADP	_	10	case	_	_
+10	gamelan	gamelan	_	NOUN	_	8	obl	_	SpaceAfter=No
+11	.	.	_	PUNCT	_	3	punct	_	SpacesAfter=\n
+
